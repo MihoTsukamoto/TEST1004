@@ -1,0 +1,4 @@
+"AadClientId": "2eb67744-7706-4f62-b69a-f8d55b444f5e",
+"AadSecret": "7Gb8Q~bx5iEUagj7Xze6q6mmh0D22uWZlnMzZaqS",
+"AadTenantDomain": "chatoran28gmail.onmicrosoft.com",
+"AadTenantId": "55bf5b24-9ba1-4a24-b90d-36afd5967ca0",
